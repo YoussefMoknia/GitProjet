@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="emailBox" type="id">emailBox</item>
+    <item name="passwordBox" type="id">passwordBox</item>
+    <item name="loginButton" type="id">loginButton</item>
+    <item name="registerLink" type="id">registerLink</item>
+    <item name="registerButton" type="id">registerButton</item>
+    <item name="loginLink" type="id">loginLink</item>
+</resources>
